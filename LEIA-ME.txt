@@ -1,0 +1,27 @@
+MODELO PREMIUM — SUA LOGO
+
+PARA VISUALIZAR
+Extraia o ZIP e abra index.html no navegador. Todos os arquivos devem continuar juntos na mesma pasta. Não é necessário instalar nada.
+
+CONTEÚDO
+Seção própria com seis serviços; carrossel com sofá, poltrona e colchão, todos com antes e depois; comparação por barra, teclado ou botões; vídeo de impermeabilização usado no exemplo Kyrios; etapas de atendimento; contato demonstrativo.
+
+WHATSAPP
+Em script.js, altere a primeira constante WHATSAPP_NUMBER de '' para o número da empresa com DDI e DDD, somente dígitos. Enquanto estiver vazio, o botão abre uma explicação da demonstração. Não está vinculado a nenhuma das empresas anteriores.
+
+PERSONALIZAÇÃO
+Textos e marca: index.html.
+Cores e layout: style.css.
+Contatos e exemplos do carrossel: script.js.
+Troque também as imagens ilustrativas por resultados reais e autorizados antes de apresentar o modelo como site de uma empresa. As imagens desta demonstração não comprovam resultados de um prestador específico.
+O vídeo reaproveitado é o fornecido para o exemplo Kyrios. Substitua pelo material autorizado de cada cliente na entrega final.
+
+PUBLICAÇÃO
+Envie todos os arquivos extraídos para a raiz do repositório, com index.html na raiz. Site estático, sem dependências, sem etapa de compilação. Pode ser hospedado em um serviço compatível com HTML/CSS/JS estático. O pacote não publica nem modifica os sites já existentes.
+
+VERIFICAÇÃO
+Navegação, seleção dos exemplos, comparação por botões/teclado, reprodução do vídeo e modal de contato verificados no navegador. Layout estreito verificado em quadro de 375 px, sem rolagem horizontal. Não houve teste em aparelho físico.
+
+ATUALIZAÇÃO — COMENTÁRIOS E WHATSAPP
+Ícone de WhatsApp em imagem (whatsapp.jpg), no botão flutuante e na chamada final. Quatro comentários fictícios identificados individualmente, em carrossel com setas, indicadores, teclado e rolagem por toque. Substituir por avaliações reais autorizadas ao personalizar. Os exemplos não são avaliações de clientes reais.
+Código JavaScript e referências de arquivos validados. A conferência visual desta atualização foi bloqueada pelo navegador de testes.
